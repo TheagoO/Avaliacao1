@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<servicos>
+    <servico>
+        <nome>Suporte técnico</nome>
+        <valor>$300,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Programação</nome>
+        <valor>$800,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Desenvolvimento</nome>
+        <valor>$800,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Manutenção PC/NotBook</nome>
+        <valor>$500,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Formatação PC/NotBook</nome>
+        <valor>$50,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Xerox</nome>
+        <valor>$0,50</valor>
+    </servico>
+
+    <servico>
+        <nome>Impressão</nome>
+        <valor>$1,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Limpeza de Hardware</nome>
+        <valor>$300,00</valor>
+    </servico>
+
+    <servico>
+        <nome>Limpeza de Hardware</nome>
+        <valor>$300,00</valor>
+    </servico>
+    
+</servicos>

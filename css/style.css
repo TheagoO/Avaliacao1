@@ -1,0 +1,190 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+}
+
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav ul li{
+    padding: 5px;
+    display: inline;
+    width: 100px;
+    text-align: center;
+}
+
+a, .endereco, span{
+    text-decoration: none;
+    color: white;
+}
+
+.nav{
+    position: relative;
+    margin: 0px;
+    padding: 25px;
+    background-color: #1a2b36;
+    color: white;
+}
+
+.section{
+    position: relative;
+    margin-bottom: 90px;
+}
+
+.content, .form-area, .content-left, .content-right{
+    text-align: justify;
+    padding: 5% 15% 2% 15%;
+    text-indent: 25px;
+}
+
+.footer{
+    display: flex;
+    background-color: #1a2b36;
+    align-items: center;
+    padding: 25px 5%;
+    margin-top: 2%;
+    font-size: 8pt;
+    justify-content: space-between;
+}
+
+h1, h2{
+    text-indent: 0px;
+    padding: 1.5px;
+}
+
+p{
+    padding: 1.5px;
+}
+
+.form-area, .service-area, .map{
+    margin-top: 50px;
+    display: flex;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+}
+
+.form-display{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 430px;
+    border-radius: 5px;
+    height: 420px;
+    box-shadow: 0px 1px 7px black;
+}
+
+table{
+    text-align: left;
+    padding: 10px;
+    height: 350px;
+}
+
+.btn-agendar{
+    border: none;
+    background-color: #269722;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-left: 25%;
+    width: 50%;
+    height: 30px;
+    box-shadow: 0px 2px 5px rgb(1, 43, 4);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.lb{
+    margin-top: 50px;
+    padding-top: 50px;
+}
+
+abbr{
+    text-decoration: none;
+}
+
+.inp{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.map{
+    height: 400px;
+}
+
+hr{
+    width: 75%;
+    margin-left: 12%;
+}
+
+.txt_nome, .txt_tel, .txt_cpf{
+    padding-top: 30px;
+}
+
+.services{
+    width: 100%;
+    padding: 0px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.col-servico, th, .col-valor{
+    padding: 10px;
+    box-shadow: 0px 0px 3px black;
+    border-radius: 5px;
+}
+
+.col-valor{
+    padding-left: 57%;
+    display: flex;
+    vertical-align: bottom;
+}
+
+.total{
+    font-weight: bold;
+}
+
+.content-left, .content-right{
+    padding-top: 15px;
+    width: 600px;
+}
+
+.content-right{
+    margin-left: auto;
+    margin-right: 2%;
+}
+
+.low-left, .low-right{
+    margin-top: 50px;
+    width: 800px;
+}
+
+.low-right{
+    float: right;
+    margin-right: 12%;
+}
+
+.img-sobre{
+    margin-top: 30px;
+    width: 500px;
+    height: 300px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}

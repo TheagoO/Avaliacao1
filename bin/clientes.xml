@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<clientes>
+    <cliente>
+        <nome>Dell EMC</nome>
+        <ano>Desde 2014</ano>
+    </cliente>
+
+    <cliente>
+        <nome>SAP Labs Latin America</nome>
+        <ano>Desde 2012</ano>
+    </cliente>
+
+    <cliente>
+        <nome>Vivo</nome>
+        <ano>Desde 2016</ano>
+    </cliente>
+
+    <cliente>
+        <nome>Oracle do Brasil</nome>
+        <ano>Desde 2013</ano>
+    </cliente>
+
+    <cliente>
+        <nome>Logicalis</nome>
+        <ano>Desde 2011</ano>
+    </cliente>
+
+    <cliente>
+        <nome>INTELBRAS</nome>
+        <ano>Desde 2010</ano>
+    </cliente>
+
+    <cliente>
+        <nome>Getnet</nome>
+        <ano>Desde 2012</ano>
+    </cliente>
+
+    <cliente>
+        <nome>ALGAR TELECOM</nome>
+        <ano>Desde 2015</ano>
+    </cliente>
+
+    <cliente>
+        <nome>IBM Brasil</nome>
+        <ano>Desde 2019</ano>
+    </cliente>
+</clientes>

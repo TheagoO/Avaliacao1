@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+#produtos{
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.produto{
+    border-radius: 5px;
+    margin: 20px 11px;
+    width: 300px;
+    max-height: 500px;
+    text-align: justify;
+    box-shadow: 0px 0.5px 5px;
+}
+
+.img-produto{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+.nome, .tipo{
+    text-align: center;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-shadow: 0px 1px 1px;
+}
+
+.nome{
+    font-size: 18pt;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: rgb(229, 226, 226);
+    color: black;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.descricao{
+    font-size: 10pt;
+    text-indent: 25px;
+    padding: 0px 20px;
+    max-height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.tipo{
+    font-size: 11pt;
+    max-height: 50px;
+    margin: 8px 5px 3px 5px;
+    padding: 0px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.total{
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.rdp{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    bottom: 0px;
+    vertical-align: bottom;
+    background-color: rgb(229, 226, 226);
+    display: inline-flex;
+    color: black;
+}

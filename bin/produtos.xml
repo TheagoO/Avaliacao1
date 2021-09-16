@@ -1,0 +1,123 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<produtos>
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Pasta térmica</nome>
+        <tipo>Rise Silver Frost 5G Cinza</tipo>
+        <descricao>Pasta Térmica de silicone Implastec é obtida pela conveniente aditivação de polímeros de silicone. Utilizada como condutora de calor nas montagens eletro-eletrônicas devido à alta rigidez dielétrica e excelente condução térmica, a IPT possui alta resistência à formação de arcos e não tem ponto de gota.</descricao>
+        <valor>$21,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Memória RAM</nome>
+        <tipo>Crucial Ballistix 8GB DDR4</tipo>
+        <descricao>Memória para Desktop Crucial Ballistix ideal para jogos com 8GB, DDR4 e 2666MHz.O suporte XMP 2.0 e os perfis predefinidos permitem executar overclock para extrair o máximo de desempenho. Selecione o perfil padrão do Conselho Conjunto para Engenharia de Dispositivos de Elétrons (JEDEC) para um desempenho padrão. </descricao>
+        <valor>$450,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Processador</nome>
+        <tipo>Processador intel core I7-10700K</tipo>
+        <descricao>Uma nova arquitetura de gráficos oferece suporte a experiências visuais ultravívidas, como vídeo em HDR 4K e jogos a 1080p. Os processadores Intel Core da 10a geração com gráficos Intel Iris Plus permitem experiências de entretenimento nunca vistas.</descricao>
+        <valor>$2.100,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Pasta termica</nome>
+        <tipo>Metal liquido</tipo>
+        <descricao>A pasta térmica Hydronaut pode ser aplicada em ambientes de overclocking devido à sua excelente condutividade térmica. Foi desenvolvida para utilizadores com grandes dissipadores de calor, que estão à procura de sistemas de refrigeração a água. A Thermal Grizzly Hydronaut é uma massa térmica pronta a aplicar e sem o uso de silicone.</descricao>
+        <valor>$120,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Gabinete</nome>
+        <tipo>Crystal Series 280X</tipo>
+        <descricao>O CORSAIR Crystal Series 280X é um case Micro-ATX de alto desempenho com três belos painéis de vidro temperado e um layout interno inovador de câmara dupla para uma aparência limpa e refrigeração excelente.</descricao>
+        <valor>$700,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Fonte</nome>
+        <tipo>Gigabyte GP-P450B 450W</tipo>
+        <descricao>O ventilador do rolamento hidráulico silencioso de 120 mm otimiza a redução de ruído e o desempenho térmico. A velocidade do ventilador é ajustada de acordo com a detecção automática de energia. O ventilador do mancal hidráulico fornece uma vida útil mais longa e mais estável.</descricao>
+        <valor>$400,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>HD</nome>
+        <tipo>Seagate BarraCuda, 2TB</tipo>
+        <descricao>Os modelos Seagate Secure fornecem segurança de dados baseada em hardware com Autodecoding Drive (SED) e oferecem um recurso de Instant Secure Erase para a desativação segura, rápida e fácil das unidades. Eles atendem às especificações de sanitização de mídia NIST 800-88 e também suportam o padrão Opal de Grupo de Computação Confiável (TCG).</descricao>
+        <valor>$400,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>SSD</nome>
+        <tipo>Kingston A400, 480GB, SATA, Leitura 500MB/s, Gravação 450MB/s</tipo>
+        <descricao>A unidade de estado sólido A400 da Kingston aumenta drasticamente a resposta do seu computador com tempos incríveis de inicialização, carregamento e transferência, comparados a discos rígidos mecânicos. Reforçado com uma controladora de última geração para velocidades de leitura e gravação de até 500MB/s e 450MB/s, este SSD é 10x mais rápido do que um disco rígido tradicional para melhor desempenho, resposta ultrarrápida em multitarefas e um computador mais rápido de modo geral.</descricao>
+        <valor>$400,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Mouse Gamer</nome>
+        <tipo>Logitech G403 HERO com RGB LIGHTSYNC</tipo>
+        <descricao>O G403 entra no ringue com a nova geração do sensor HERO 25K. Prepare-se para um mouse com rastreamento 1:1 no próximo nível, suavização, filtragem ou aceleração zero.</descricao>
+        <valor>$200,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Teclado Mecânico Gamer</nome>
+        <tipo>AOC Agon AGK700, RGB, Switch Cherry MX Blue, ABNT2</tipo>
+        <descricao>Os interruptores Cherry são um dos principais recursos quando se trata de qualidade superior no mercado de jogos. Os interruptores estão disponíveis em cores diferentes com recursos diferentes cada um. Quanto mais competitivo um jogo se torna, mais APM (ações por minuto) você precisa. O rollover de N-chave garante que todas as suas entradas sejam registradas corretamente. O recurso garante que não importa quantas teclas você pressione, cada entrada seja notada e implementada no jogo. O N-Key Rollover anda de mãos dadas com o anti-ghosting.</descricao>
+        <valor>$700,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Headset Gamer</nome>
+        <tipo>HyperX Cloud Stinger Drivers 50mm</tipo>
+        <descricao>Faça parte da família Cloud da HyperX com o headset Cloud Stinger! Completa e versátil, a linha de headsets Cloud foi projetada para as necessidades de qualquer nível de jogador. Independente do seu sistema, estilo de jogo e características este headset irá te surpreender. O Cloud Stinger é um modelo licenciado oficialmente pela Xbox, perfeito para jogadores de Xbox One! Conforto, tecnologia e design a sua altura. Os fones de ouvido giram 90° e ficam bem apoiados confortavelmente em torno do pescoço durante os intervalos de batalhas.</descricao>
+        <valor>$400,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Mouse Pad</nome>
+        <tipo>400 X 280mm - Cyberpunk 2077 - Grande</tipo>
+        <descricao>Design Otimizado A superfície similar ao tecido proporciona um controle e rastreamento de precisão superior durante a gameplay. Conta com um tamanho especial para aproveitar ao máximo o espaço de deslocamento do mouse.</descricao>
+        <valor>$30,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Monitor Gamer</nome>
+        <tipo>LED LG 34 UltraWide Curvo</tipo>
+        <descricao>O Monitor LG Gamer é um poderoso equipamento de exibição de jogos integrado às funções de alto desempenho que podem responder a qualquer jogo de grande sucesso. Este monitor é compatível com HDR10 para representar detalhes em partes claras e escuras, para que os jogadores desfrutem de um brilho mais intenso e destaques com sombras e silhuetas mais profundas.</descricao>
+        <valor>$3.400,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Placa-Mãe</nome>
+        <tipo>ASRock B450M Steel Legend</tipo>
+        <descricao>A Steel Legend representa o estado filosófico da sólida durabilidade e irresistível estética. Construída ao redor das especificações e recursos mais exigentes, a série Steel Legend visa os usuários do dia a dia e entusiastas mainstream! Oferecendo uma forte gama de materiais/componentes para assegurar um desempenho estável e confiável. Uma placa-mãe que atende qualquer tarefa – com estilo!</descricao>
+        <valor>$800,00</valor>
+    </produto>
+
+    <produto>
+        <imagem>https://robohash.org/inciduntaperiamoptio/set_set4/bgset_bg2/3.14159?size=200x200</imagem>
+        <nome>Water Cooler</nome>
+        <tipo>Corsair H100X Hydro Series, 240mm, LED Branco</tipo>
+        <descricao>O cooler líquido de alto desempenho CORSAIR Hydro Series H100x para CPUs tem duas ventoinhas de 120 mm e um radiador de 240 mm e é muito fácil de instalar. Aproveite o desempenho superior e a capacidade de resfriar superfícies maiores que o radiador de alta densidade com 240 mm oferece para manter a temperatura da CPU mais baixa. A bomba com iluminação LED branca deixa todas as montagens de sistemas mais brilhantes.</descricao>
+        <valor>$600,00</valor>
+    </produto>
+</produtos>
